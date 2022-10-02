@@ -3,6 +3,16 @@ entries:
   base:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-02T12:03:34.719123212Z"
+    description: A Helm chart for Kubernetes
+    digest: 1a95fd05cfe8f02c055919b44d268021a9e8976a0078bb15234ecc8338e5ec09
+    name: base
+    type: application
+    urls:
+    - https://github.com/heatsharing-network/helm/releases/download/base-0.1.1/base-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-02T11:43:31.346180526Z"
     description: A Helm chart for Kubernetes
     digest: 52963882d44297b0122f8e7c8c2e02115f97168c9e5f730ada0ec2a9ec43dbe5
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/heatsharing-network/helm/releases/download/base-0.1.0/base-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-02T11:43:31.346188126Z"
+generated: "2022-10-02T12:03:34.719132812Z"
